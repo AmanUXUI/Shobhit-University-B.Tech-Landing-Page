@@ -102,7 +102,7 @@ export default function RecruitersVerticalMarquee() {
                 <div>
                   <span className="block font-sans text-xl sm:text-2xl md:text-3xl font-extrabold text-zinc-950 transition-colors duration-300 group-hover:text-[#007a55]">100%</span>
                   <span className="block font-ranade font-medium text-[11px] sm:text-xs text-zinc-500 mt-1 tracking-wider leading-snug">
-                    Placement Assistance *
+                    Placement Assistance
                   </span>
                 </div>
               </div>
@@ -115,7 +115,7 @@ export default function RecruitersVerticalMarquee() {
                 <div>
                   <span className="block font-sans text-xl sm:text-2xl md:text-3xl font-extrabold text-zinc-950 transition-colors duration-300 group-hover:text-emerald-600">₹12.5 LPA</span>
                   <span className="block font-ranade font-medium text-[11px] sm:text-xs text-zinc-500 mt-1 tracking-wider leading-snug">
-                    Highest Package*
+                    Highest Package
                   </span>
                 </div>
               </div>
@@ -128,7 +128,7 @@ export default function RecruitersVerticalMarquee() {
                 <div>
                   <span className="block font-sans text-xl sm:text-2xl md:text-3xl font-extrabold text-zinc-950 transition-colors duration-300 group-hover:text-[#007a55]">150+</span>
                   <span className="block font-ranade font-medium text-[11px] sm:text-xs text-zinc-500 mt-1 tracking-wider leading-snug">
-                    Industry Partners*
+                    Industry Partners
                   </span>
                 </div>
               </div>
@@ -141,7 +141,7 @@ export default function RecruitersVerticalMarquee() {
                 <div>
                   <span className="block font-sans text-xl sm:text-2xl md:text-3xl font-extrabold text-zinc-950 transition-colors duration-300 group-hover:text-emerald-600">350+</span>
                   <span className="block font-ranade font-medium text-[11px] sm:text-xs text-zinc-500 mt-1 tracking-wider leading-snug">
-                    Recruiters*
+                    Recruiters
                   </span>
                 </div>
               </div>

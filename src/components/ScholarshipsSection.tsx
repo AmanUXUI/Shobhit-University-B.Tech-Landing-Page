@@ -79,7 +79,7 @@ export default function ScholarshipsSection() {
       badgeColor: "bg-pink-50 text-pink-700 border-pink-200/60",
       accentBg: "from-pink-500/5 to-transparent",
       tagline: "Exclusive initiative to support and empower meritorious girl candidates pursuing higher studies.",
-      highlightValue: "Flat 20% Scholarship",
+      highlightValue: "20% of Tuition Fee",
       highlightLabel: "For Entire Programme",
       highlightBg: "from-pink-50 to-pink-100/30 border-pink-100 text-pink-855",
       eligibility: {

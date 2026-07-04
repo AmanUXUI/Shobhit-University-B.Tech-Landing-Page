@@ -36,10 +36,7 @@ export default function AdmissionRoutes({ onApply }: AdmissionRoutesProps) {
         "Joint Entrance Examination (JEE Main)",
         "Common Admission Test (CAT)",
         "Management Aptitude Test (MAT)",
-        "Common Law Admission Test (CLAT)",
-        "Law School Admission Test (LSAT)",
         "Common Management Admission Test (CMAT)",
-        "Graduate Aptitude Test in Engineering (GATE)",
         "Other recognised programme-relevant scores"
       ],
       description: "",

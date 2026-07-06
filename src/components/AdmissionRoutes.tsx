@@ -34,9 +34,6 @@ export default function AdmissionRoutes({ onApply }: AdmissionRoutesProps) {
       bullets: [
         "Common University Entrance Test (CUET)",
         "Joint Entrance Examination (JEE Main)",
-        "Common Admission Test (CAT)",
-        "Management Aptitude Test (MAT)",
-        "Common Management Admission Test (CMAT)",
         "Other recognised programme-relevant scores"
       ],
       description: "",

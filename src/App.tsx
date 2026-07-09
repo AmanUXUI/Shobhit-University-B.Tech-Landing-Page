@@ -87,7 +87,7 @@ contact: mail@shobhituniversity.ac.in or NH-58, Modipuram, Meerut.
           <div className="relative">
             {/* Mobile Banner */}
             <img
-              src="https://imgh.in/host/fsdzf0"
+              src="https://imgh.in/host/fn4i87"
               alt="Shobhit University Admissions Banner"
               className="w-full h-auto object-cover select-none block md:hidden"
               referrerPolicy="no-referrer"
